@@ -1,0 +1,40 @@
+# Python
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Конфигурация с учетными данными
+.env
+.env.local
+.env.*.local
+config.py
+
+# Логирование
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Данные пользователей
+user_data/
+temp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
