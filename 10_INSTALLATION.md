@@ -46,7 +46,7 @@ cp .env.example .env
 ```env
 BOT_TOKEN=7932998723:AAF...
 SMTP_EMAIL=your_email@gmail.com
-SMTP_PASSWORD=yrpuvmn ijqifflz
+SMTP_PASSWORD=yr..............
 ```
 
 ### Шаг 6: Запустите бота
